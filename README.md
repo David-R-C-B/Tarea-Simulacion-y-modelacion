@@ -346,12 +346,5 @@ m cuando es posible).
 
 * En el README incluir: requisitos, pasos de ejecución, capturas de la GUI y bitácora de avances.
 
-## ✅ Buenas prácticas
-
-* Si usas código externo, cítalo en este README.
-
-* Mantén el repo limpio (puedes eliminar archivos no usados y __pycache__).
-
-* El proyecto está orientado a correr sin internet el día del examen.
 
 
