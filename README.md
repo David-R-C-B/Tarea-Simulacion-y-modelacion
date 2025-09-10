@@ -2,7 +2,7 @@
 
 Proyecto en **Python 3.10+** con GUI (estilo oscuro minimalista “cyberpunk serio”) desarrollada en **tkinter**.  
 Permite generar secuencias pseudoaleatorias con **algoritmos clásicos**, visualizar los **pasos de generación**, y aplicar **pruebas estadísticas** de uniformidad.  
-> Este trabajo fue realizado por *[tu nombre]* con la ayuda de **ChatGPT (asistente de OpenAI)**.
+> Este trabajo fue realizado por *David Ronald Calle Blanco* con la ayuda de **ChatGPT (asistente de OpenAI)**.
 
 ---
 
